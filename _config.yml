@@ -48,7 +48,7 @@ social:
     - https://github.com/paspring       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/paspring
 
 google_site_verification:               # fill in to your verification string
 
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:    [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
